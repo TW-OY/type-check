@@ -1,0 +1,1 @@
+export const foo = (bar: string): void => console.log(bar);
